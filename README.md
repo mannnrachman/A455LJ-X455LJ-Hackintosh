@@ -9,12 +9,12 @@
 
 ### Pray and ALWAYS **BACKUP** your settings
 
-#### Installation : 
+### Installation : 
 - This EFI Folder you can use for FD or Storage.
 - And I change EFI Folder from Installer Olarila (MacOS High Sierra 10.13.6)
 - For activation wifi open a folder wifi, run application Kext Utility, drag file from folder wifi to application Kext Utility, wait and reboot. Your wifi is activated
 
-#### Specification :
+### Specification :
 - Processor : Intel Core i3-5010U
 - RAM : 6GB DDR3 PC12800 / 1600Mhz
 - Codec Audio : Conexant CX20751/2
@@ -27,7 +27,7 @@
 - Boot Mode : UEFI GPT
 - Etc.
 
-#### **Work :**
+### **Work :**
 - QE/CI Graphics Intel HD 5500
 - Battery Status
 - Internal Audio, Microphone, And Headphone
@@ -42,24 +42,24 @@
 - Wifi
 - Etc.
 
-#### **Not Work :**
+### **Not Work :**
 * IMessage
 * FaceTime
 * Bluetooth
 * Etc.
 
-#### **Not Tested :**
+### **Not Tested :**
 * Ethernet Port
 * HDMI Port
 * VGA Port
 * Card Reader
 * Etc
  
-#### **To solved a problem :**
+### **A problem :**
 * ICloud, IMessage, Facetime [klik disini](https://bit.ly/2MON8wc) 
 * Color Banding [klik disini](https://bit.ly/2JtxPHs)  
-* Transfer file to android use app Android File Transfer
-* For Read/Write NTFS use app Tuxera or Paragon NTFS
+* Transfer file to android use app **Android File Transfer**
+* For Read/Write NTFS use app **Tuxera** or **Paragon NTFS**
 * Etc.
 
 **Special Thanks to :**
