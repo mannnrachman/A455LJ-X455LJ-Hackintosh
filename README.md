@@ -1,8 +1,7 @@
 # A455LJ-X455LJ
 ASUS A455LJ/X455LJ HACKINTOSH (MacOS High Sierra 10.13.6)
 
-DWYOR!
-Pray and always backup your settings
+Pray and ALWAYS **BACKUP** your settings
 
 Installation : 
 - This EFI Folder you can use for FD or Storage.
