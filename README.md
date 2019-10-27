@@ -12,7 +12,7 @@
 ### Installation : 
 - This EFI Folder you can use for FD or Storage.
 - And I change EFI Folder from Installer Olarila (MacOS High Sierra 10.13.6)
-- For activation wifi open a folder wifi, run application Kext Utility, drag file from folder wifi to application Kext Utility, wait and reboot. Your wifi is activated
+- For activation wifi open a folder wifi, run application Kext Utility, drag IO80211Family.kext file from folder wifi to application Kext Utility, wait and reboot. Your wifi is activated
 
 ### Specification :
 - Processor : Intel Core i3-5010U
