@@ -40,12 +40,12 @@
 - Restart, Sleep and Shutdown
 - Sleep and Wake with Close the lid
 - Wifi
+- Bluetooth
 - Etc.
 
 ### **Not Work :**
 * IMessage
 * FaceTime
-* Bluetooth
 * Etc.
 
 ### **Not Tested :**
@@ -56,10 +56,11 @@
 * Etc
  
 ### **A problem :**
-* ICloud, IMessage, Facetime [klik disini](https://bit.ly/2MON8wc) 
-* Color Banding [klik disini](https://bit.ly/2JtxPHs)  
+* ICloud, IMessage, Facetime [click here](https://bit.ly/2MON8wc) 
+* Color Banding [click here](https://bit.ly/2JtxPHs)  
 * Transfer file to android use app **Android File Transfer**
 * For Read/Write NTFS use app **Tuxera** or **Paragon NTFS**
+* Boot from windows or linux to **enable Bluetooth**
 * Etc.
 
 **Special Thanks to :**
