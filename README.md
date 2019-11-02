@@ -60,7 +60,7 @@
 * Color Banding [click here](https://bit.ly/2JtxPHs)  
 * Transfer file to android use app **Android File Transfer**
 * For Read/Write NTFS use app **Tuxera** or **Paragon NTFS**
-* Boot from windows or linux to **enable Bluetooth**
+* Boot from windows or linux to **enable/disable Bluetooth**
 * Etc.
 
 **Special Thanks to :**
